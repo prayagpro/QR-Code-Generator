@@ -1,4 +1,4 @@
-# QR-Code-Generator
+# QR-Code-Generator Lvl-Easy
 Simple QR Code Generator 🖨️
 
 A minimal QR code generator. Quickly generate QR codes for any text or URL with ease. Perfect for lightweight use cases and learning purposes.
